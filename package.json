@@ -1,9 +1,8 @@
 {
   "name": "pratice-frontend",
   "version": "1.0.0",
-  "description": "Simple static frontend",
-  "private": true,
   "scripts": {
+    "build": "echo \"Static website - no build required\"",
     "start": "npx http-server ."
   }
 }
