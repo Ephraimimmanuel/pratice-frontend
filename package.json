@@ -1,0 +1,13 @@
+{
+  "name": "pratice-frontend",
+  "version": "1.0.0",
+  "description": "Simple static frontend for AWS S3 and CloudFront deployment",
+  "private": true,
+  "scripts": {
+    "start": "npx http-server .",
+    "build": "echo \"No build step required for this project\""
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
