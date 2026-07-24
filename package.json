@@ -1,0 +1,9 @@
+{
+  "name": "pratice-frontend",
+  "version": "1.0.0",
+  "description": "Simple static frontend",
+  "private": true,
+  "scripts": {
+    "start": "npx http-server ."
+  }
+}
